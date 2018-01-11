@@ -1,0 +1,21 @@
+body{
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/seaimg.jpg");
+}
+
+.container-fluid{
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+}
+
+.panel-title-primary{
+    font-size:2vw;
+}
+
+.panel-title-secundary{
+    font-size:1.2vw;
+}
+

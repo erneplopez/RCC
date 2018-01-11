@@ -1,0 +1,4 @@
+database.type=mysql
+database.host=localhost
+database.dbname=app
+database.username=root
